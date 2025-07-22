@@ -1,6 +1,6 @@
 # SuT_Mechanical_Task1
 
-Task 2 - Week 5 (Summer Training)
+Task 1 - Week 5 (Summer Training)
 
 ------------
 ## About this task
