@@ -20,4 +20,6 @@ $$
 
 -------------
 ### Link of my work 
-![link](https://cad.onshape.com/documents/28d480742453e181a91d1ba3/w/7818218e387a73915e575093/e/a53a453f447e1ea6a7a793b1?renderMode=0&uiState=687f43c241f8375e5e1ad86d)
+https://cad.onshape.com/documents/28d480742453e181a91d1ba3/w/7818218e387a73915e575093/e/a53a453f447e1ea6a7a793b1
+
+*in case facing 403 forbidden page consider copying the URL.
