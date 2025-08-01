@@ -26,7 +26,7 @@ https://cad.onshape.com/documents/28d480742453e181a91d1ba3/w/7818218e387a73915e5
 ---------------
 # SuT_Mechanical_Task2
 
-Task 1 - Week 5 (Summer Training)
+Task 2 - Week 6 (Summer Training)
 
 ------------
 ## About this task
