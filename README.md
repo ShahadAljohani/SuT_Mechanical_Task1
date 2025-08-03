@@ -56,6 +56,7 @@ Designed a second robotic arm elbow joint using 3D modeling in onShape.
 -------------
 ### Link of my work 
 
-https://cad.onshape.com/documents/83ab74a9d209dc660cc29f21/w/1c7667dfcffc6336799d1bee/e/7bce66e7ca8941376735856c?renderMode=0&uiState=688caac6a6ede90d661b1c87
+- https://cad.onshape.com/documents/83ab74a9d209dc660cc29f21/w/1c7667dfcffc6336799d1bee/e/7bce66e7ca8941376735856c?renderMode=0&uiState=688fb30ca6ede90d6628acdd
 
 
+- [Assembled](https://cad.onshape.com/documents/28d480742453e181a91d1ba3/w/7818218e387a73915e575093/e/0091309109e91d7d3b924566?renderMode=0&uiState=688fb2da2d96e6706e76a8ff)
