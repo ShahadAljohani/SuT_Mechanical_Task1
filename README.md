@@ -1,7 +1,18 @@
+# SuT_Mechanical_Tasks
+#### Tasks: 
+
+[Task 1](#ref1)
+
+[Task 2](#ref2)
+
+------------------
+
+
 # SuT_Mechanical_Task1
 
 Task 1 - Week 5 (Summer Training)
 
+ - <a name="ref1"></a> [Task 1] **Task 1:**
 ------------
 ## About this task
 Designed a robotic arm elbow joint using 3D modeling in onShape.
@@ -28,6 +39,7 @@ https://cad.onshape.com/documents/28d480742453e181a91d1ba3/w/7818218e387a73915e5
 
 Task 2 - Week 6 (Summer Training)
 
+  - <a name="ref2"></a> [Task 2] **Task 2:**
 ------------
 ## About this task
 Designed a second robotic arm elbow joint using 3D modeling in onShape.
